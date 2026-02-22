@@ -84,5 +84,3 @@ I build systems that help finance teams move **from raw data to executive clarit
 </p>
 
 ---
-
-Do you want me to do that next?
