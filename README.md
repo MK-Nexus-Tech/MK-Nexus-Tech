@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/cover.png" alt="cover" />
+  <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/cover.png" alt="cover" width="100%" />
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 
 ## ⚜ Financial Systems Architecture
 
+<img align="right" src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="300" />
+
 I design structured financial intelligence platforms for accounting firms and finance teams.
 
 • Accounts Receivable intelligence terminals  
@@ -24,6 +26,8 @@ I design structured financial intelligence platforms for accounting firms and fi
 • Real-time PDF reporting infrastructure  
 
 Raw data becomes structured decision systems.
+
+<br clear="right"/>
 
 ---
 
