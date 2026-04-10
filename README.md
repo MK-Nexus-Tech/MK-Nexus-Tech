@@ -88,6 +88,7 @@ Teams move faster. Reporting becomes consistent. Decisions are based on real-tim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&theme=transparent&title_color=C6A75E&icon_color=C6A75E&text_color=C6A75E" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-Nexus-Tech&hide_border=true&theme=transparent&ring=C6A75E&fire=C6A75E&currStreakLabel=C6A75E" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&theme=transparent&ring=C6A75E&fire=C6A75E&currStreakLabel=C6A75E" width="48%" />
 </p>
 
 ---
