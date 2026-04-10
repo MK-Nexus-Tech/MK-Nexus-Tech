@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/cover.png" alt="cover" width="100%" />
+  <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/GitHub Cover.png" alt="cover" width="100%" />
 </p>
 
 <p align="center">
