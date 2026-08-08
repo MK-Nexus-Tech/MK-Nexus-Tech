@@ -317,13 +317,13 @@ I'm focused on building **practical intelligence systems for business operators 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=64748B&bg_color=00000000" width="48%" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=2563EB&text_color=64748B&bg_color=00000000" width="48%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&theme=transparent" width="70%" />
+<img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&background=00000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="75%" />
 
 </div>
 
