@@ -1,530 +1,422 @@
 <div align="center">
 
-<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/Cover.png" alt="MK Nexus Tech Cover" width="100%" />
-
-<br><br>
-
-# Muhammad Maqsood
-
-### Solutions Architect · Business Intelligence Systems · Founder @ MK Nexus Tech
-
-**I design business systems that turn fragmented data into decision-ready intelligence.**
+<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/Cover.png" width="100%" alt="MK Nexus Tech Cover"/>
 
 <br>
 
-<a href="https://github.com/MK-Nexus-Tech">
-<img src="https://img.shields.io/badge/GitHub-MK%20Nexus%20Tech-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://github.com/MK-Nexus-Tech?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github" alt="Projects">
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
+
+# Muhammad M
+
+### Solutions Architect · Business Intelligence Systems · Founder @ MK Nexus Tech
+
+<p>
+  <a href="https://github.com/MK-Nexus-Tech">
+    <img src="https://img.shields.io/badge/MK%20Nexus%20Tech-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <b>Business Intelligence Systems</b> •
+  <b>Executive Dashboards</b> •
+  <b>Automated Reporting</b> •
+  <b>Decision Intelligence</b>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-<img align="right" src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="300" alt="Developer Animation" />
+I design and build **business intelligence systems, reporting platforms, internal tools, and data-driven applications** that turn fragmented operational data into decision-ready intelligence.
 
-</div>
+My work sits between **business strategy, data architecture, software engineering, and executive reporting**.
 
-## 👋 About
+I help SaaS companies, e-commerce businesses, agencies, and data-driven teams replace:
 
-I am a **Solutions Architect and Founder of MK Nexus Tech** focused on designing and building business intelligence systems, executive dashboards, reporting platforms, operational applications, and decision-support systems.
+- Spreadsheet-heavy reporting
+- Disconnected business data
+- Repetitive manual workflows
+- Fragmented KPI tracking
+- Limited operational visibility
+- Slow executive reporting
 
-I work at the intersection of:
+with systems built around **centralized data, reliable metrics, automation, and clear decision workflows**.
 
-**Business Problems → Data Architecture → Business Logic → Intelligence → Decision Support**
-
-Most organizations do not have a data problem.
-
-They have a **visibility problem**.
-
-Critical information is often distributed across spreadsheets, SaaS platforms, operational systems, finance tools, and disconnected reporting workflows.
-
-That creates:
-
-- Manual reporting
-- Inconsistent KPIs
-- Repetitive data preparation
-- Limited executive visibility
-- Slow operational decisions
-- Disconnected workflows
-- Hidden business signals
-- Excessive dependence on spreadsheets
-
-I build systems that bring those fragmented signals into a structured operating layer.
+> **The goal is not another dashboard. The goal is a business system people can trust.**
 
 ---
 
-## 🎯 What I Build
+## What I Build
 
-### 📊 Business Intelligence Systems
+| Area | Solutions |
+|---|---|
+| 📊 **Business Intelligence** | BI platforms, KPI systems, executive dashboards, operational analytics |
+| 📈 **Executive Reporting** | CFO dashboards, management reporting, financial intelligence, performance reporting |
+| ⚡ **Automation** | Automated reporting, workflow automation, recurring data pipelines |
+| 🧠 **Decision Intelligence** | Reorder intelligence, KPI signals, business rules, decision-support systems |
+| 🏢 **Internal Systems** | Browser-based tools, operational applications, local-first business systems |
+| 🔄 **Data Integration** | ETL workflows, data cleaning, transformation, structured data pipelines |
+| 🕷️ **Data Extraction** | Ethical public-data extraction, web data collection, structured datasets |
+| 🎯 **Data Visualization** | Interactive dashboards, analytical interfaces, business-focused visualization |
 
-- Executive KPI Dashboards
-- Management Reporting Systems
-- Financial Intelligence Platforms
-- SaaS Analytics Systems
-- E-commerce Intelligence
-- Operational Intelligence Platforms
-- Decision Intelligence Interfaces
-- Multi-source Analytics Systems
+---
 
-### ⚙️ Reporting & Automation
+## Core Expertise
 
-- Automated Reporting Systems
-- KPI Monitoring Systems
-- Reporting Automation
-- Data Transformation Pipelines
-- ETL Workflows
-- Spreadsheet-to-System Workflows
+### Business & Data Architecture
+
+- Business Intelligence Architecture
+- Data & Reporting Architecture
+- KPI Framework Design
+- Executive Information Systems
+- Operational Intelligence
+- Decision Intelligence
+- Financial Intelligence
+- Inventory Intelligence
+- Data Modeling
+- Data Integration
+- ETL & Data Transformation
+- Reporting System Architecture
+
+### Analytics & Reporting
+
+- Executive Dashboards
+- CFO Dashboards
+- SaaS KPI Dashboards
+- E-commerce Analytics
+- Agency Performance Reporting
+- Financial Reporting Systems
+- Inventory Analytics
+- KPI Monitoring
+- Management Reporting
+- Multi-Currency Analytics
+- Data Visualization
+
+### Software & Automation
+
 - Business Process Automation
-- Centralized Reporting Platforms
-
-### 🧩 Business Applications
-
 - Browser-Based Internal Tools
-- Operations Management Systems
-- Inventory Intelligence Systems
-- Financial Planning Applications
-- HR Analytics Applications
-- Workflow Applications
-- Local-First Business Applications
-- Decision-Support Applications
+- Local-First Applications
+- Reporting Automation
+- Data Pipelines
+- Workflow Systems
+- API Integration
+- CSV / Excel / JSON Processing
+- Lightweight Business Applications
+
+### Data Engineering & Extraction
+
+- Python Data Extraction
+- Public Web Data Extraction
+- Web Scraping
+- Data Cleaning
+- Data Normalization
+- Data Validation
+- Structured Dataset Generation
+- ETL Pipelines
+- Large-Scale Data Processing
 
 ---
 
-## 🧠 Architecture Philosophy
+## Technology Stack
 
-I do not start with charts.
+### Frontend
 
-I start with the **business decision the system needs to support**.
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" />
+</p>
 
-```text
-┌──────────────────────────┐
-│      Business Problem    │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│        Data Sources      │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│    Data Architecture     │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│        Data Model        │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│   KPI & Business Logic   │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│    Intelligence Layer    │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│      User Interface      │
-└────────────┬─────────────┘
-             ↓
-┌──────────────────────────┐
-│     Decision Support     │
-└──────────────────────────┘
-````
+### Data & Backend
 
-A dashboard is not valuable because it looks impressive.
-
-It is valuable when it helps someone answer an important business question faster and more accurately.
-
----
-
-# 🚀 Featured Systems
-
-## 🔷 MK Nexus Visual Intelligence Terminal
-
-A decision-focused business intelligence interface designed around executive visibility, operational metrics, KPI analysis, and structured data visualization.
-
-**Focus Areas**
-
-* Business Intelligence
-* Executive Visibility
-* KPI Systems
-* Data Visualization
-* Operational Analytics
-* Decision Support
-
----
-
-## 📦 Inventory Intelligence Node
-
-An institutional-grade inventory intelligence system designed to expose operational and capital-related inventory signals.
-
-### Core Capabilities
-
-| Intelligence Layer       | Purpose                               |
-| ------------------------ | ------------------------------------- |
-| Inventory Telemetry      | Monitor operational inventory signals |
-| Capital Lock-up Analysis | Identify capital tied to inventory    |
-| SKU Velocity Matrix      | Understand SKU movement               |
-| Inventory Waterfall      | Analyze inventory movement            |
-| Reorder Intelligence     | Support replenishment decisions       |
-| Confidence Scoring       | Quantify recommendation confidence    |
-| Audit Logging            | Preserve operational traceability     |
-| Local-First Architecture | Support resilient local operation     |
-
-**Focus Areas**
-
-`Inventory Intelligence` · `Capital Visibility` · `Decision Support` · `Operational Analytics`
-
----
-
-## 💰 Fiscal Prism
-
-A financial intelligence interface designed to transform financial and operational data into structured management visibility.
-
-**Focus Areas**
-
-* Financial Intelligence
-* KPI Analysis
-* Management Reporting
-* Performance Monitoring
-* Decision Support
-
----
-
-## 👥 HR Analytics Dashboard
-
-A workforce intelligence system designed to transform HR data into structured management insights.
-
-**Focus Areas**
-
-* Workforce Analytics
-* HR KPIs
-* Employee Metrics
-* Management Reporting
-* Data Visualization
-
----
-
-# 🏢 MK Nexus Tech
-
-**MK Nexus Tech** focuses on building practical business intelligence and operational systems for organizations that have outgrown fragmented spreadsheets and manual reporting.
-
-### Core Areas
-
-```text
-Business Intelligence
-├── Executive Dashboards
-├── KPI Systems
-├── Financial Intelligence
-├── Inventory Intelligence
-├── HR Analytics
-└── Operational Analytics
-
-Business Applications
-├── Internal Tools
-├── Browser Applications
-├── Workflow Systems
-└── Local-First Applications
-
-Data Systems
-├── Data Transformation
-├── ETL Workflows
-├── Data Visualization
-└── Reporting Automation
-```
-
----
-
-# 🛠️ Technology Stack
-
-### Frontend & Application Engineering
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,vite,tailwind,html,css,js" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs" />
 </p>
 
 ### Data & Analytics
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,pandas" />
+`Pandas` · `NumPy` · `Chart.js` · `PapaParse` · `XLSX` · `JSON` · `CSV`
 
 </p>
 
-**Core capabilities**
+### Engineering
 
-* Data Transformation
-* ETL Workflows
-* KPI Engineering
-* Business Analytics
-* Data Visualization
-* Reporting Systems
-* Data Integration
+<p>
 
-### Systems & Architecture
+`REST APIs` · `ETL` · `Data Pipelines` · `Data Transformation` · `Automation` · `Local-First Architecture`
 
-* React Applications
-* TypeScript Systems
-* Browser-Based Business Tools
+</p>
+
+---
+
+## Systems I Build
+
+```text
+                    BUSINESS DATA
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+     SaaS Data       E-commerce       Operations
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                  DATA INTEGRATION
+                         │
+                  CLEAN & TRANSFORM
+                         │
+                  KPI / DATA MODEL
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Analytics      Reporting     Intelligence
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                EXECUTIVE VISIBILITY
+                         │
+                  BETTER DECISIONS
+````
+
+---
+
+## Selected Systems & Projects
+
+### ◈ MK Nexus Visual Intelligence Terminal
+
+A premium business intelligence interface focused on transforming operational data into a decision-ready visual environment.
+
+**Focus:**
+
+`Business Intelligence` · `Data Visualization` · `Executive Analytics` · `React` · `TypeScript`
+
+---
+
+### ◈ Inventory Intelligence Node
+
+An institutional-grade inventory intelligence system designed around operational visibility and capital efficiency.
+
+**Core capabilities:**
+
+* SKU velocity analysis
+* Capital lock-up analysis
+* Inventory waterfall
+* Reorder intelligence
+* Confidence scoring
+* Decision-support logic
+* Institutional audit logging
+* Local-first architecture
+
+**Focus:**
+
+`Inventory Intelligence` · `Decision Intelligence` · `Operational Analytics`
+
+---
+
+### ◈ Fiscal Prism
+
+A financial intelligence interface designed for multi-currency business analysis and executive financial visibility.
+
+**Focus:**
+
+`Financial Intelligence` · `CFO Reporting` · `Multi-Currency Analytics` · `Executive Dashboards`
+
+---
+
+### ◈ HR Analytics Dashboard
+
+A browser-based analytics system focused on workforce metrics, KPI monitoring, and management visibility.
+
+**Focus:**
+
+`HR Analytics` · `KPI Systems` · `Data Visualization` · `Business Reporting`
+
+---
+
+### ◈ Data Extraction & ETL Systems
+
+Public-data extraction and transformation workflows for structured business datasets.
+
+**Capabilities:**
+
+* Public web data extraction
+* Data cleaning
+* Deduplication
+* Normalization
+* Structured CSV / Excel / JSON delivery
+* ETL workflows
+* Large dataset processing
+
+**Focus:**
+
+`Python` · `Pandas` · `BeautifulSoup` · `Selenium` · `ETL`
+
+---
+
+## Business Problems I Solve
+
+```text
+Fragmented Data
+      ↓
+Disconnected Tools
+      ↓
+Manual Reporting
+      ↓
+Inconsistent KPIs
+      ↓
+Limited Visibility
+      ↓
+Slow Decisions
+```
+
+### I design systems that move organizations toward:
+
+```text
+Centralized Data
+      ↓
+Reliable Metrics
+      ↓
+Automated Reporting
+      ↓
+Operational Visibility
+      ↓
+Decision Intelligence
+      ↓
+Faster Business Decisions
+```
+
+---
+
+## Industries
+
+* SaaS
+* E-commerce
+* Digital Agencies
+* Professional Services
+* Accounting & Finance
+* Operations
+* Inventory & Distribution
+* Data-Driven Businesses
+
+---
+
+## Current Focus
+
+I'm currently focused on building **practical intelligence systems for business operators and executives**.
+
+### Areas of active development
+
 * Business Intelligence Platforms
-* Local-First Applications
-* Internal Business Applications
-* Decision-Support Systems
-* Reporting Platforms
-
----
-
-# 🏗️ Engineering Principles
-
-My systems are designed around a few core principles:
-
-| Principle                | Approach                                       |
-| ------------------------ | ---------------------------------------------- |
-| **Business-First**       | Start with the business problem                |
-| **Clear Data Models**    | Make information structured and understandable |
-| **Deterministic Logic**  | Keep critical business rules predictable       |
-| **Modular Architecture** | Build systems that can evolve                  |
-| **Reusable Components**  | Reduce unnecessary duplication                 |
-| **Decision-Oriented UX** | Optimize interfaces around decisions           |
-| **Performance**          | Keep interactions fast and practical           |
-| **Maintainability**      | Favor understandable systems                   |
-| **Practical Automation** | Automate repetitive operational work           |
-| **Data Integrity**       | Treat business data as a system asset          |
-
-Technology is the implementation layer.
-
-**Architecture exists to solve the business problem.**
-
----
-
-# 🔬 Current Areas of Focus
-
-I am exploring and building systems around:
-
-* Decision Intelligence
-* Executive Intelligence Terminals
+* Executive Dashboard Systems
+* Decision Intelligence Engines
 * Operational Intelligence
-* Business Intelligence Architecture
-* Automated KPI Systems
 * Financial Intelligence
-* Inventory Decision Systems
+* Inventory Intelligence
+* Automated Reporting
 * Local-First Business Applications
-* Deterministic Recommendation Engines
-* Business Data Integration
-* Reporting Automation
-* Multi-source Analytics
-* AI-Assisted Business Analytics
+* Data Integration & ETL
+* Browser-Based Internal Tools
 
 ---
 
-# 📂 What You Will Find Here
+## Engineering Principles
 
-My GitHub is focused on **practical systems rather than isolated technical experiments**.
+```text
+01  Business outcome before technology
+02  Data architecture before visualization
+03  Reliable KPIs before attractive dashboards
+04  Automation before repetitive manual work
+05  Simple interfaces before unnecessary complexity
+06  Local-first where appropriate
+07  Reproducible data workflows
+08  Decision support over information overload
+```
 
-You will find projects involving:
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-Nexus-Tech&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Professional Focus
+
+<div align="center">
 
 ### Business Intelligence
 
-* Executive Dashboards
-* KPI Systems
-* Financial Intelligence
-* Inventory Intelligence
-* HR Analytics
-* Operational Analytics
+**Data → KPIs → Visibility → Decisions**
 
-### Business Applications
+### Solutions Architecture
 
-* Internal Tools
-* Browser Applications
-* Workflow Systems
-* Local-First Applications
-* Decision-Support Interfaces
+**Business Problems → Systems → Automation**
 
-### Data Systems
+### Data Engineering
 
-* Data Transformation
-* ETL Workflows
-* Data Visualization
-* Reporting Automation
-* Business Data Integration
+**Raw Data → Clean Data → Reliable Intelligence**
 
-### Engineering Experiments
+### Executive Reporting
 
-* Frontend Architecture
-* Data Interfaces
-* Analytics Components
-* Business Logic
-* Application Architecture
-* Automation Workflows
+**Complex Operations → Clear Management Insight**
+
+</div>
 
 ---
 
-# 📌 The Business Problems I Solve
-
-I build systems for situations where businesses are dealing with:
-
-* Data scattered across multiple platforms
-* Heavy spreadsheet dependency
-* Manual reporting
-* Repetitive KPI preparation
-* Inconsistent business metrics
-* Limited executive visibility
-* Slow access to critical information
-* Disconnected operational workflows
-* Inventory capital without clear visibility
-* Repetitive operational processes
-* Outdated reporting
-* Difficult-to-trace business decisions
-
-The objective is straightforward:
-
-> **Make important business information easier to see, understand, and act on.**
-
----
-
-# 🧭 From Data to Decisions
-
-```text
-Raw Data
-   ↓
-Structured Data
-   ↓
-Reliable Metrics
-   ↓
-Business Context
-   ↓
-Intelligence
-   ↓
-Decision
-   ↓
-Action
-```
-
-The goal is not to create more reports.
-
-The goal is to create a better **decision environment**.
-
----
-
-# 💡 My Core Belief
-
-Business software should do more than display information.
-
-It should help people answer:
-
-```text
-What is happening?
-        ↓
-Why is it happening?
-        ↓
-What changed?
-        ↓
-Where is the problem?
-        ↓
-What requires attention?
-        ↓
-What should happen next?
-```
-
-That is the difference between a reporting interface and a **decision-support system**.
-
----
-
-# 📈 What I Optimize For
-
-I care about systems that improve:
-
-* Visibility
-* Consistency
-* Speed
-* Traceability
-* Operational clarity
-* KPI reliability
-* Decision quality
-* Reporting efficiency
-* Data accessibility
-* Business control
-
-A technically impressive system that does not improve the decision process is still a weak system.
-
----
-
-# 🌐 Areas I Work Across
-
-```text
-SaaS
-E-commerce
-Agencies
-Operations
-Finance
-Inventory
-HR
-Management Reporting
-Business Analytics
-Internal Operations
-```
-
-The industry can change.
-
-The underlying problem is often the same:
-
-**Important business information exists, but it is difficult to use.**
-
----
-
-# 🤝 Collaboration
-
-I am interested in challenging problems involving:
-
-* Business Intelligence Architecture
-* Executive Reporting
-* Operational Visibility
-* KPI Architecture
-* Business Data Integration
-* Reporting Automation
-* Internal Business Applications
-* Decision-Support Systems
-* Financial Intelligence
-* Inventory Intelligence
-
-If a business depends heavily on spreadsheets, manual reporting, or disconnected systems, the opportunity is usually not another spreadsheet.
-
-It is a better system.
-
----
-
-# 🔗 Connect
+## Connect
 
 <div align="center">
 
-<a href="https://github.com/MK-Nexus-Tech">
-<img src="https://img.shields.io/badge/GitHub-MK%20Nexus%20Tech-181717?style=for-the-badge&logo=github" />
-</a>
+### Muhammad M
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Maqsood-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+**Solutions Architect | Business Intelligence Systems | Founder @ MK Nexus Tech**
 
-</div>
+I build systems that help businesses replace fragmented reporting with reliable operational intelligence.
 
 <br>
 
-<div align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### MK Nexus Tech
-
-**Solutions Architecture · Business Intelligence · Decision Systems**
-
-**Turning fragmented business data into systems people can use to make better decisions.**
+<a href="https://github.com/MK-Nexus-Tech">
+<img src="https://img.shields.io/badge/GitHub-MK%20Nexus%20Tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+### MK NEXUS TECH
+
+**Business Intelligence • Automated Reporting • Decision Intelligence • Data Systems**
+
+<br>
+
+`Build Systems. Create Visibility. Improve Decisions.`
+
+</div>
