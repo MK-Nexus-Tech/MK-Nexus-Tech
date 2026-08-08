@@ -1,4 +1,4 @@
-<br>
+<div align="center">
 
 <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
 
@@ -10,7 +10,7 @@
   <a href="https://github.com/MK-Nexus-Tech">
     <img src="https://img.shields.io/badge/MK%20Nexus%20Tech-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/muhammad-mk-nexus-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
