@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
 # Muhammad M
 
 ### Solutions Architect · Business Intelligence Systems · Founder @ MK Nexus Tech
@@ -386,4 +386,3 @@ I build systems that help businesses replace fragmented reporting with reliable 
 `Build Systems. Create Visibility. Improve Decisions.`
 
 </div>
-```
