@@ -8,9 +8,6 @@
 **Business Intelligence • Executive Reporting • Decision Intelligence • Data Systems**
 
 </div>
-<p>
-  <a href="https://github.com/MK-Nexus-Tech">
-    <img src="https://img.shields.io/badge/MK%20Nexus%20Tech-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 ---
 
 ## About
