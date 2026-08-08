@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/Cover.png" width="100%" alt="MK Nexus Tech Cover"/>
-
 <br>
 
 <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
@@ -397,7 +393,7 @@ I build systems that help businesses replace fragmented reporting with reliable 
 
 <br>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/muhammad-mk-nexus-tech/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
