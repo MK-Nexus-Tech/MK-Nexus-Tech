@@ -1,26 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
-
 # Muhammad M
 
 ### Solutions Architect · Business Intelligence Systems · Founder @ MK Nexus Tech
 
-<p>
-  <a href="https://github.com/MK-Nexus-Tech">
-    <img src="https://img.shields.io/badge/MK%20Nexus%20Tech-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-mk-nexus-tech/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <b>Business Intelligence Systems</b> •
-  <b>Executive Dashboards</b> •
-  <b>Automated Reporting</b> •
-  <b>Decision Intelligence</b>
-</p>
+**Business Intelligence • Executive Reporting • Decision Intelligence • Data Systems**
 
 </div>
 
@@ -30,7 +14,7 @@
 
 I design and build **business intelligence systems, reporting platforms, internal tools, and data-driven applications** that turn fragmented operational data into decision-ready intelligence.
 
-My work sits between **business strategy, data architecture, software engineering, and executive reporting**.
+My work sits at the intersection of **business strategy, data architecture, software engineering, and executive reporting**.
 
 I help SaaS companies, e-commerce businesses, agencies, and data-driven teams replace:
 
@@ -61,8 +45,12 @@ with systems built around **centralized data, reliable metrics, automation, and 
 | 🎯 **Data Visualization** | Interactive dashboards, analytical interfaces, business-focused visualization |
 
 ---
-<table> <tr> <td width="33%" valign="top">
+
 ## Core Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### Business & Data Architecture
 
@@ -79,6 +67,9 @@ with systems built around **centralized data, reliable metrics, automation, and 
 - ETL & Data Transformation
 - Reporting System Architecture
 
+</td>
+<td width="33%" valign="top">
+
 ### Analytics & Reporting
 
 - Executive Dashboards
@@ -93,7 +84,10 @@ with systems built around **centralized data, reliable metrics, automation, and 
 - Multi-Currency Analytics
 - Data Visualization
 
-### Software & Automation
+</td>
+<td width="33%" valign="top">
+
+### Software, Data & Automation
 
 - Business Process Automation
 - Browser-Based Internal Tools
@@ -102,11 +96,6 @@ with systems built around **centralized data, reliable metrics, automation, and 
 - Data Pipelines
 - Workflow Systems
 - API Integration
-- CSV / Excel / JSON Processing
-- Lightweight Business Applications
-
-### Data Engineering & Extraction
-
 - Python Data Extraction
 - Public Web Data Extraction
 - Web Scraping
@@ -114,9 +103,12 @@ with systems built around **centralized data, reliable metrics, automation, and 
 - Data Normalization
 - Data Validation
 - Structured Dataset Generation
-- ETL Pipelines
 - Large-Scale Data Processing
-</td> </tr> </table>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Technology Stack
@@ -135,19 +127,11 @@ with systems built around **centralized data, reliable metrics, automation, and 
 
 ### Data & Analytics
 
-<p>
-
 `Pandas` · `NumPy` · `Chart.js` · `PapaParse` · `XLSX` · `JSON` · `CSV`
-
-</p>
 
 ### Engineering
 
-<p>
-
 `REST APIs` · `ETL` · `Data Pipelines` · `Data Transformation` · `Automation` · `Local-First Architecture`
-
-</p>
 
 ---
 
@@ -188,7 +172,6 @@ with systems built around **centralized data, reliable metrics, automation, and 
 A premium business intelligence interface focused on transforming operational data into a decision-ready visual environment.
 
 **Focus:**
-
 `Business Intelligence` · `Data Visualization` · `Executive Analytics` · `React` · `TypeScript`
 
 ---
@@ -209,7 +192,6 @@ An institutional-grade inventory intelligence system designed around operational
 * Local-first architecture
 
 **Focus:**
-
 `Inventory Intelligence` · `Decision Intelligence` · `Operational Analytics`
 
 ---
@@ -219,7 +201,6 @@ An institutional-grade inventory intelligence system designed around operational
 A financial intelligence interface designed for multi-currency business analysis and executive financial visibility.
 
 **Focus:**
-
 `Financial Intelligence` · `CFO Reporting` · `Multi-Currency Analytics` · `Executive Dashboards`
 
 ---
@@ -229,7 +210,6 @@ A financial intelligence interface designed for multi-currency business analysis
 A browser-based analytics system focused on workforce metrics, KPI monitoring, and management visibility.
 
 **Focus:**
-
 `HR Analytics` · `KPI Systems` · `Data Visualization` · `Business Reporting`
 
 ---
@@ -249,7 +229,6 @@ Public-data extraction and transformation workflows for structured business data
 * Large dataset processing
 
 **Focus:**
-
 `Python` · `Pandas` · `BeautifulSoup` · `Selenium` · `ETL`
 
 ---
@@ -303,7 +282,7 @@ Faster Business Decisions
 
 ## Current Focus
 
-I'm currently focused on building **practical intelligence systems for business operators and executives**.
+I'm focused on building **practical intelligence systems for business operators and executives**.
 
 ### Areas of active development
 
@@ -335,58 +314,66 @@ I'm currently focused on building **practical intelligence systems for business 
 
 ---
 
-GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="49%" /> </div>
-Contribution Activity
-<div align="center"> <img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&theme=transparent" width="70%" /> </div>
-
----
-
-## Professional Focus
+## GitHub Activity
 
 <div align="center">
 
-### Business Intelligence
+<img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" />
 
-**Data → KPIs → Visibility → Decisions**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="49%" />
 
-### Solutions Architecture
+<br><br>
 
-**Business Problems → Systems → Automation**
-
-### Data Engineering
-
-**Raw Data → Clean Data → Reliable Intelligence**
-
-### Executive Reporting
-
-**Complex Operations → Clear Management Insight**
+<img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&theme=transparent" width="70%" />
 
 </div>
 
 ---
 
-## Connect
+## Professional Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Business Intelligence
+
+**Data → KPIs → Visibility → Decisions**
+
+</td>
+<td width="25%" align="center">
+
+### Solutions Architecture
+
+**Problems → Systems → Automation**
+
+</td>
+<td width="25%" align="center">
+
+### Data Engineering
+
+**Raw Data → Clean Data → Intelligence**
+
+</td>
+<td width="25%" align="center">
+
+### Executive Reporting
+
+**Complexity → Clarity → Insight**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Connect
 
 ### Muhammad M
 
 **Solutions Architect | Business Intelligence Systems | Founder @ MK Nexus Tech**
 
 I build systems that help businesses replace fragmented reporting with reliable operational intelligence.
-
-<br>
-
-<a href="https://www.linkedin.com/in/muhammad-mk-nexus-tech/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MK-Nexus-Tech">
-<img src="https://img.shields.io/badge/GitHub-MK%20Nexus%20Tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -396,8 +383,7 @@ I build systems that help businesses replace fragmented reporting with reliable 
 
 **Business Intelligence • Automated Reporting • Decision Intelligence • Data Systems**
 
-<br>
-
 `Build Systems. Create Visibility. Improve Decisions.`
 
 </div>
+```
