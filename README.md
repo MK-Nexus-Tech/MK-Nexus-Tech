@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/MK-Nexus-Tech/MK-Nexus-Tech/blob/main/develpor.gif" width="280" alt="Muhammad M Developer"/>
-# Muhammad M
+  
+# Muhammad Maqsood
 
 ### Solutions Architect · Business Intelligence Systems · Founder @ MK Nexus Tech
 
