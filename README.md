@@ -8,7 +8,6 @@
 **Business Intelligence • Executive Reporting • Decision Intelligence • Data Systems**
 
 </div>
----
 
 ## About
 
