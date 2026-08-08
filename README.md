@@ -61,7 +61,7 @@ with systems built around **centralized data, reliable metrics, automation, and 
 | 🎯 **Data Visualization** | Interactive dashboards, analytical interfaces, business-focused visualization |
 
 ---
-
+<table> <tr> <td width="33%" valign="top">
 ## Core Expertise
 
 ### Business & Data Architecture
@@ -116,7 +116,7 @@ with systems built around **centralized data, reliable metrics, automation, and 
 - Structured Dataset Generation
 - ETL Pipelines
 - Large-Scale Data Processing
-
+</td> </tr> </table>
 ---
 
 ## Technology Stack
@@ -335,25 +335,10 @@ I'm currently focused on building **practical intelligence systems for business 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MK-Nexus-Tech&hide_border=true&theme=transparent" />
-
-</div>
+GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MK-Nexus-Tech&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-Nexus-Tech&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="49%" /> </div>
+Contribution Activity
+<div align="center"> <img src="https://streak-stats.demolab.com?user=MK-Nexus-Tech&hide_border=true&theme=transparent" width="70%" /> </div>
 
 ---
 
